@@ -12,4 +12,4 @@
 После публикации GitHub Pages:
 
 ```text
-https://USERNAME.github.io/teaching-images/
+https://nasochec.github.io/teaching-assets/

@@ -1,6 +1,22 @@
 [
     {
-        "name": "Activation Functions",
-        "file": "activation_functions.png"
+        "name": "Практика 1. Функции активации.",
+        "file": "practice_01_activation_functions.png"
+    },
+    {
+        "name": "Практика 1. Линейный слой.",
+        "file": "practice_01_linear_layer.png"
+    },
+    {
+        "name": "Практика 1. Линейный слой. Градиенты.",
+        "file": "practice_01_linear_gradients.png"
+    },
+    {
+        "name": "Практика 1. Двухслойный перцептрон.",
+        "file": "practice_01_two_layer_perceptron.png"
+    },
+    {
+        "name": "Практика 1. Двухслойный перцептрон. Градиенты. Анимация.",
+        "file": "practice_01_two_layer_perceptron.webp"
     }
 ]
