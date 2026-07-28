@@ -4,6 +4,10 @@
         "file": "practice_01_activation_functions.png"
     },
     {
+        "name": "Практика 1. Функции активации. Семейство ReLU.",
+        "file": "practice_01_relu_family.png"
+    },
+    {
         "name": "Практика 1. Линейный слой.",
         "file": "practice_01_linear_layer.png"
     },
