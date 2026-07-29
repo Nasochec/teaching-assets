@@ -22,5 +22,34 @@
     {
         "name": "Практика 1. Двухслойный перцептрон. Градиенты. Анимация.",
         "file": "practice_01_two_layer_perceptron.webp"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. SGD-momentum. Спуск по функции ошибки.",
+        "file": "practice_01_sgd_momentum_descend.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. SGD-momentum.",
+        "file": "practice_01_sgd_momentum.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. SGD-momentum Нестерова",
+        "file": "practice_01_sgd_momentum_nesterov.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. SGD-momentum Нестерова. Спуск по функции ошибки.",
+        "file": "practice_01_sgd_momentum_nesterov_descend.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. Adagrad. Спуск по функции ошибки.",
+        "file": "practice_01_adagrad_descend.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. RMSProp. Спуск по функции ошибки.",
+        "file": "practice_01_rmsprop_descend.png"
+    },
+    {
+        "name": "Практика 1. Оптимизаторы. RMSProp. Спуск по функции ошибки в 3D.",
+        "file": "practice_01_rmsprop_descend_3d.webp"
     }
+    
 ]
