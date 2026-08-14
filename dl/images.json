@@ -50,6 +50,10 @@
     {
         "name": "Практика 1. Оптимизаторы. RMSProp. Спуск по функции ошибки в 3D.",
         "file": "practice_01_rmsprop_descend_3d.webp"
+    },
+    {
+        "name": "Практика 3. Операция свёртки.",
+        "file": "practice_03_convolution.webp"
     }
     
 ]
