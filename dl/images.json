@@ -54,6 +54,21 @@
     {
         "name": "Практика 3. Операция свёртки.",
         "file": "practice_03_convolution.png"
+    },
+    {
+        "name": "Практика 3. Операция свёртки, одно суммирование.",
+        "file": "practice_03_convolution_sum.png"
+    },
+    {
+        "name": "Практика 3. Операция свёртки, Padding.",
+        "file": "practice_03_convolution_paddings.png"
+    },
+    {
+        "name": "Практика 3. Операция свёртки, Padding, разные значения.",
+        "file": "practice_03_convolution_two_paddings.png"
+    },
+    {
+        "name": "Практика 3. Операция свёртки, Stride.",
+        "file": "practice_03_convolution_stride.png"
     }
-    
 ]
