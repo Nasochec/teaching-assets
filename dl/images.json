@@ -70,5 +70,17 @@
     {
         "name": "Практика 3. Операция свёртки, Stride.",
         "file": "practice_03_convolution_stride.png"
+    },
+    {
+        "name": "Практика 3. Операция свёртки, Dilation.",
+        "file": "practice_03_convolution_dilation.png"
+    },
+    {
+        "name": "Практика 3. Архитектура LeNet.",
+        "file": "practice_03_LeNet.png"
+    },
+    {
+        "name": "Практика 3. Операция пуллинга.",
+        "file": "practice_03_pooling.gif"
     }
 ]
