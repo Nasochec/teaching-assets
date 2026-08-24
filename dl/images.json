@@ -82,5 +82,13 @@
     {
         "name": "Практика 3. Операция пуллинга.",
         "file": "practice_03_pooling.gif"
+    },
+    {
+        "name": "Практика 3. Планировщики. Часть 1.",
+        "file": "practice_03_schedulers1.png"
+    },
+    {
+        "name": "Практика 3. Планировщики. Часть 2.",
+        "file": "practice_03_schedulers2.png"
     }
 ]
