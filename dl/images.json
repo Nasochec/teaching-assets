@@ -90,5 +90,33 @@
     {
         "name": "Практика 3. Планировщики. Часть 2.",
         "file": "practice_03_schedulers2.png"
+    },
+    {
+        "name": "Практика 4. Обучение модели CoCa.",
+        "file": "practice_04_CoCa.png"
+    },
+    {
+        "name": "Практика 4. Модель CoCa. Метрики.",
+        "file": "practice_04_CoCa_metrics.png"
+    },
+    {
+        "name": "Практика 4. Предсказания на ImageNet.",
+        "file": "practice_04_ImageNet.png"
+    },
+    {
+        "name": "Практика 4. Рецептивное поле VGG.",
+        "file": "practice_04_receptive_fields.png"
+    },
+    {
+        "name": "Практика 4. Network in Network.",
+        "file": "practice_04_network_in_network.png"
+    },
+    {
+        "name": "Практика 4. Сеть Inception.",
+        "file": "practice_04_inception_architecture.png"
+    },
+    {
+        "name": "Практика 4. Модуль Inception.",
+        "file": "practice_04_inception_module.jpg"
     }
 ]
