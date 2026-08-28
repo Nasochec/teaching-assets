@@ -104,12 +104,20 @@
         "file": "practice_04_ImageNet.png"
     },
     {
+        "name": "Практика 4. Архитектура VGG.",
+        "file": "practice_04_vgg.jpg"
+    },
+    {
         "name": "Практика 4. Рецептивное поле VGG.",
         "file": "practice_04_receptive_fields.png"
     },
     {
         "name": "Практика 4. Network in Network.",
         "file": "practice_04_network_in_network.png"
+    },
+    {
+        "name": "Практика 4. Операция Global Average Pooling.",
+        "file": "practice_04_global_average_pooling.png"
     },
     {
         "name": "Практика 4. Сеть Inception.",
