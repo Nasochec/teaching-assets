@@ -52,6 +52,18 @@
         "file": "practice_01_rmsprop_descend_3d.webp"
     },
     {
+        "name": "Практика 2. Ковариантный сдвиг.",
+        "file": "practice_02_covariance_shift.png"
+    },
+    {
+        "name": "Практика 2. Внутренний ковариантный сдвиг.",
+        "file": "practice_02_internal_covariance_shift.png"
+    },
+    {
+        "name": "Практика 2. BatchNorm. Ландшафт функции потерь.",
+        "file": "practice_02_batch_norm_landscape.png"
+    },
+    {
         "name": "Практика 3. Операция свёртки.",
         "file": "practice_03_convolution.png"
     },
