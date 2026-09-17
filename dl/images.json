@@ -64,6 +64,14 @@
         "file": "practice_02_batch_norm_landscape.png"
     },
     {
+        "name": "Практика 2. Инициализация Ксавье (Глорот).",
+        "file": "practice_02_xavier_initialization.png"
+    },
+    {
+        "name": "Практика 2. Инициализация Хе (Кайминг).",
+        "file": "practice_02_He_initialization.png"
+    },
+    {
         "name": "Практика 3. Операция свёртки.",
         "file": "practice_03_convolution.png"
     },
