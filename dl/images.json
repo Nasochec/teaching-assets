@@ -150,5 +150,9 @@
     {
         "name": "Практика 4. Остаточные связи.",
         "file": "practice_04_residual_connections.png"
+    },
+    {
+        "name": "Практика 4. Блок Bottleneck.",
+        "file": "practice_04_bottleneck_block.png"
     }
 ]
